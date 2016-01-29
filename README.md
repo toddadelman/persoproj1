@@ -28,4 +28,4 @@ End result: giving user a visual represetation of peak productivity bands in the
   
  # Project managed on Pivotal Tracker https://www.pivotaltracker.com/n/projects/1524319
  
- [mockup](PProj.png)
+ [mockup image](PProj.png)
