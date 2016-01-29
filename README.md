@@ -27,4 +27,5 @@ End result: giving user a visual represetation of peak productivity bands in the
   music or vidoe to other motivational or time management links.
   
  # Project managed on Pivotal Tracker https://www.pivotaltracker.com/n/projects/1524319
+ 
  [mockup](PProj.png)
