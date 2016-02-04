@@ -20,11 +20,11 @@ Metrics are stored for each task, each day and week and presented in a visual fo
 
  End result: giving user a visual represetation of peak productivity bands in the course of a working day/week.
           : with that design ones daily routine around ideal energy and focused times during the day, 
-          not 9 --> 5 but when your natural biorythm works best for the individual.
+          not 9 --> 5 but when your natural biorhythm works best for the individual.
 
 
  
-  --->  Project set up on Pivotal Tracker https://www.pivotaltracker.com/n/projects/1524319
+  --->  Project managed on Pivotal Tracker https://www.pivotaltracker.com/n/projects/1524319
 
 
  
