@@ -18,8 +18,24 @@ $('#btn1').on('click', function(e) {
   taskList.push(newTask, goalClass, setTimer);
   console.log(taskList); 
 
+$('#set-time').append(setTimer)
+$('#goal-1').append(newTask)
+
 
 });
+
+
+//Start timer button
+$('#start-1').on('click', function(e) {
+  e.preventDefault();
+
+  setTimeout(function(){
+    $('#percentComplete').removeAttr('disabled')
+    $('#focusValue').removeAttr('disabled')
+    $('#energyLevel').removeAttr('disabled')
+    $('#btn2').removeAttr('disabled')
+
+  },4000)});
 
 // result form event handler
 
@@ -40,19 +56,11 @@ $('#btn2').on('click', function(e) {
   $('#score').append(score)
 
 });
+// clock timer
 
-// donut chart
-/*
-$('#donutChart').donutChart()
 
-$('#donutChart').donutChart({
-width: 300,
-height: 200,
-legendSizePadding: 0.05,
-label: "Graph {0}",
-hasBorder: true
-})
-*/
+
+
 
 
 
